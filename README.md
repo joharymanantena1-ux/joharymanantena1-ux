@@ -114,10 +114,6 @@ Je suis **Johary Manantena**, développeur web fullstack en devenir, actuellemen
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff" alt="Langages les plus utilisés" />
 </div>
 
-<div>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Johary Manantena&theme=github-dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=DD6B20&currStreakLabel=4A90E2" alt="Série de contributions" />
-</div>
-
 </div>
 
 ## 🔄 Contribution & Collaboration
