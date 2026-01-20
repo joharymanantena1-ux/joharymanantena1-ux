@@ -115,7 +115,7 @@ Je suis **Johary Manantena**, développeur web fullstack en devenir, actuellemen
 </div>
 
 <div>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=joharymanantena1-ux&theme=github-dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=DD6B20&currStreakLabel=4A90E2" alt="Série de contributions" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Johary Manantena&theme=github-dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=DD6B20&currStreakLabel=4A90E2" alt="Série de contributions" />
 </div>
 
 </div>
