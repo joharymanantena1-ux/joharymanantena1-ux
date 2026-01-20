@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- Animation de titre avec effet de frappe -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=4A90E2&center=true&vCenter=true&width=850&height=60&lines=Johary+Manantena;Développeur+Web+Fullstack;Étudiant+en+Sciences+Informatiques;Spécialité+Développement+Web+%26+Design;IT+Student+from+Madagascar" alt="Titre animé" />
+<!-- Animation de titre avec effet de frappe - Version corrigée -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=4A90E2&center=true&vCenter=true&width=850&height=60&lines=Johary+Manantena;D%C3%A9veloppeur+Web+Fullstack;%C3%89tudiant+en+Sciences+Informatiques;Sp%C3%A9cialit%C3%A9+Web+%26+Design;IT+Student+from+Madagascar" alt="Titre animé" />
 
 <br/>
 
@@ -115,7 +115,7 @@ Je suis **Johary Manantena**, développeur web fullstack en devenir, actuellemen
 </div>
 
 <div>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=joharymanantena1-ux&theme=github-dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=DD6B20&currStreakLabel=4A90E2" alt="Série de contributions" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoutaManantena&theme=github-dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=DD6B20&currStreakLabel=4A90E2" alt="Série de contributions" />
 </div>
 
 </div>
