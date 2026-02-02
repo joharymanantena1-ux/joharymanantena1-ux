@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Typing effect avec SVG animé -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=4A90E2&center=true&vCenter=true&width=850&height=60&lines=Johary+Manantena;Développeur+Web+Fullstack;Étudiant+en+Sciences+Informatiques;Web+%26+Design;IT+Student+from+Madagascar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=4A90E2&center=true&vCenter=true&width=850&height=60&lines=Johary+Manantena;D%C3%A9veloppeur+Web+Fullstack;%C3%89tudiant+en+Sciences+Informatiques;Web+%26+Design;IT+Student+from+Madagascar" alt="Typing SVG" />
 
 <br/>
 
@@ -78,18 +78,24 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 
 <div align="center">
 
-<!-- Stats GitHub fonctionnels -->
-![Statistiques GitHub de Johary](https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD&text_color=FFFFFF)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF)
+<!-- Stats GitHub avec URLs directs -->
+<img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD&text_color=FFFFFF" alt="Statistiques GitHub de Johary" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF" alt="Top Langages" width="49%" />
 
-<!-- Streak Stats fonctionnels -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=joharymanantena1-ux&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&dates=8A8A8A)
+<br/><br/>
 
-<!-- Graph d'Activité fonctionnel -->
-[![Graph d'Activité GitHub](https://activity-graph.herokuapp.com/graph?username=joharymanantena1-ux&theme=github-dark&bg_color=0D1117&color=4A90E2&line=8E44AD&point=D32F2F&area=true&area_color=4A90E2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&dates=8A8A8A" alt="GitHub Streak" width="90%" />
 
-<!-- Trophées GitHub fonctionnels -->
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)
+<br/><br/>
+
+<!-- Graph d'Activité -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=github-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=D32F2F&area=true&area_color=4A90E2" alt="Graph d'Activité GitHub" width="90%" />
+
+<br/><br/>
+
+<!-- Trophées GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophées GitHub" width="90%" />
 
 </div>
 
@@ -98,11 +104,15 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 <!-- ================= PROJETS ================= -->
 ## 🚀 Projets Récents
 
-<!-- Repository Pins - REMPLACEZ CES URLS PAR VOS VRAIS PROJETS -->
 <div align="center">
 
-[![Projet React](https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=projet-react&theme=dark&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF)](https://github.com/joharymanantena1-ux/projet-react)
-[![Projet Node.js](https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=projet-node&theme=dark&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF)](https://github.com/joharymanantena1-ux/projet-node)
+<!-- Repository Pins - À MODIFIER AVEC VOS VRAIS PROJETS -->
+<a href="https://github.com/joharymanantena1-ux/projet1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=projet1&theme=dark&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF" alt="Projet 1" width="48%" />
+</a>
+<a href="https://github.com/joharymanantena1-ux/projet2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=projet2&theme=dark&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF" alt="Projet 2" width="48%" />
+</a>
 
 </div>
 
@@ -113,8 +123,12 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 <!-- ================= CONTRIBUTIONS ================= -->
 ## 📈 Contributions Récentes
 
+<div align="center">
+
 <!-- Snake Game Contribution Grid -->
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <hr/>
 
@@ -124,10 +138,18 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 <div align="center">
 
 <!-- Boutons de contact avec logos -->
-[![Email](https://img.shields.io/badge/Email-andrianmanantena@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andrianmanantena@gmail.com)](mailto:andrianmanantena@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johary_Manantena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johary-manantena)](https://www.linkedin.com/in/johary-manantena)
-[![GitHub](https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joharymanantena1-ux)](https://github.com/joharymanantena1-ux)
-[![Twitter](https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/johary_dev)](https://twitter.com/johary_dev)
+<a href="mailto:andrianmanantena@gmail.com">
+  <img src="https://img.shields.io/badge/Email-andrianmanantena@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/johary-manantena">
+  <img src="https://img.shields.io/badge/LinkedIn-Johary_Manantena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com/johary_dev">
+  <img src="https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
 
 </div>
 
@@ -138,7 +160,8 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 
 <div align="center">
 
-![Compteur de Visiteurs](https://profile-counter.glitch.me/joharymanantena1-ux/count.svg)
+<!-- Compteur de visiteurs -->
+<img src="https://komarev.com/ghpvc/?username=joharymanantena1-ux&color=4A90E2&style=flat-square" alt="Compteur de visiteurs" />
 
 </div>
 
@@ -149,9 +172,8 @@ Je suis un **développeur web fullstack passionné** et **étudiant en sciences 
 
 ⭐️ **Merci de visiter mon profil !** N'hésitez pas à me contacter pour collaborer sur des projets intéressants.
 
-**📅 Dernière mise à jour :** *Automatically generated on 2026-02-02*  
 **© 2026 Johary Manantena** - Développeur Fullstack & Étudiant en Sciences Informatiques
 
-![Madagascar](https://img.shields.io/badge/Made_with_❤️_in-Madagascar-0066CC?style=for-the-badge&logo=heart&logoColor=white)
+![Made in Madagascar](https://img.shields.io/badge/Made_with_❤️_in-Madagascar-0066CC?style=for-the-badge&logo=heart&logoColor=white)
 
 </div>
