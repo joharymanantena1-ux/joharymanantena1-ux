@@ -1,6 +1,16 @@
 <!-- ================= EN-TÊTE ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar" alt="Typing SVG" />
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar" />
+  </picture>
   <br/>
   
   <!-- Badges de présentation -->
@@ -29,52 +39,52 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 <details open>
 <summary><b>Langages de programmation</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </details>
 
 <details open>
 <summary><b>Frameworks & Frontend</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </details>
 
 <details open>
 <summary><b>Backend & Bases de données</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </details>
 
 <details open>
 <summary><b>Outils & DevOps</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </details>
 
 ---
@@ -84,26 +94,76 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 
 <div align="center">
 
-<!-- Stats générales -->
-<img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD&text_color=FFFFFF" width="49%" />
+  <!-- Stats générales avec adaptation au thème -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21600"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=21600"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=21600" width="49%" />
+  </picture>
 
-<!-- Top langages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF" width="49%" />
+  <!-- Top langages avec adaptation au thème -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400" width="49%" />
+  </picture>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=github-dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&dates=8A8A8A" width="90%" />
+  <!-- Streak stats (card indépendante, on garde un thème fixe ou on adapte ? Optionnel) -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&dates=8A8A8A"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=default&hide_border=true&background=EBF0F5&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=000000&sideNums=000000&currStreakLabel=4A90E2&dates=555555"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=default&hide_border=true" width="90%" />
+  </picture>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Graph d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=D32F2F&area=true" width="95%" />
+  <!-- Graph d'activité (thème react-dark supporte les deux ? On utilise picture) -->
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=D32F2F&area=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=github-light&hide_border=true&bg_color=ffffff&color=4A90E2&line=8E44AD&point=D32F2F&area=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=github-light&hide_border=true" width="95%" />
+  </picture>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Trophées GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="90%" />
+  <!-- Trophées GitHub -->
+  <picture>
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=flat&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=flat&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="90%" />
+  </picture>
 
 </div>
 
@@ -114,8 +174,18 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 
 <div align="center">
 
-<!-- Animation Snake -->
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+  <!-- Animation Snake (s'adapte automatiquement au thème GitHub) -->
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
 
@@ -125,20 +195,18 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 ## 📞 Me contacter
 
 <div align="center">
-
-<a href="mailto:andrianmanantena@gmail.com">
-  <img src="https://img.shields.io/badge/Email-andrianmanantena@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/johary-manantena">
-  <img src="https://img.shields.io/badge/LinkedIn-Johary_Manantena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/joharymanantena1-ux">
-  <img src="https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/johary_dev">
-  <img src="https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
+  <a href="mailto:andrianmanantena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andrianmanantena@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/johary-manantena">
+    <img src="https://img.shields.io/badge/LinkedIn-Johary_Manantena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/joharymanantena1-ux">
+    <img src="https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/johary_dev">
+    <img src="https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
 
 <br/>
