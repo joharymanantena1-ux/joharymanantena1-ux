@@ -1,16 +1,7 @@
 <!-- ================= EN-TÊTE ================= -->
 <div align="center">
-  <picture>
-    <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar" />
-  </picture>
+  <!-- Typing effect (une seule source suffit) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar" alt="Typing SVG" />
   <br/>
   
   <!-- Badges de présentation -->
@@ -94,76 +85,33 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 
 <div align="center">
 
-  <!-- Stats générales avec adaptation au thème -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21600"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=21600"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=21600" width="49%" />
-  </picture>
+<!-- Stats card - version simplifiée avec thème dark uniquement (évite les problèmes de compatibilité) -->
+<img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
 
-  <!-- Top langages avec adaptation au thème -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=86400" width="49%" />
-  </picture>
+<!-- Top Langages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Langages" width="49%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Streak stats (card indépendante, on garde un thème fixe ou on adapte ? Optionnel) -->
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&dates=8A8A8A"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=default&hide_border=true&background=EBF0F5&stroke=4A90E2&ring=8E44AD&fire=D32F2F&currStreakNum=000000&sideNums=000000&currStreakLabel=4A90E2&dates=555555"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=default&hide_border=true" width="90%" />
-  </picture>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=dark&hide_border=true" alt="GitHub Streak" width="90%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Graph d'activité (thème react-dark supporte les deux ? On utilise picture) -->
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=D32F2F&area=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=github-light&hide_border=true&bg_color=ffffff&color=4A90E2&line=8E44AD&point=D32F2F&area=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=github-light&hide_border=true" width="95%" />
-  </picture>
+<!-- Graph d'activité -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Trophées GitHub -->
-  <picture>
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=flat&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=flat&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="90%" />
-  </picture>
+<!-- Trophées GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=onedark&no-frame=true&row=2&column=3" alt="Trophées" width="90%" />
+
+<!-- Note temporaire en cas d'absence de données -->
+<details>
+<summary><b>💡 Note :</b> Si les statistiques ne s'affichent pas, c'est probablement dû à un compte récent ou à un manque d'activité publique. Elles apparaîtront automatiquement dans quelques jours.</summary>
+<br/>
+Les services externes comme GitHub Readme Stats peuvent prendre jusqu'à 24-48h pour générer les premières données. Patience !
+</details>
 
 </div>
 
@@ -174,18 +122,18 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
 
 <div align="center">
 
-  <!-- Animation Snake (s'adapte automatiquement au thème GitHub) -->
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+<!-- Animation Snake (grille de contributions) -->
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 
 </div>
 
@@ -204,9 +152,10 @@ Je suis un développeur web fullstack passionné, actuellement étudiant en scie
   <a href="https://github.com/joharymanantena1-ux">
     <img src="https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/johary_dev">
+  <!-- Lien Twitter (désactivé si vous ne l'utilisez pas, sinon décommentez) -->
+  <!-- <a href="https://twitter.com/johary_dev">
     <img src="https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
