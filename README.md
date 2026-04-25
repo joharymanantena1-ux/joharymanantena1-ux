@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Johary%20Manantena&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Développeur%20Fullstack%20%7C%20Étudiant%20en%20Informatique&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Johary%20Manantena&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Développeur%20Fullstack%20%7C%20Étudiant%20en%20Informatique&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -36,7 +36,7 @@
 <!-- ║                    À PROPOS DE MOI                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> À propos de moi
+## 🚀 À propos de moi
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/programmer.gif"/>
 
@@ -49,11 +49,11 @@ const johary = {
     
     languages: ["Français", "Malgache", "English"],
     
-    currentlyLearning: ["React Native", "GraphQL", "Cloud Computing"],
+    currentlyLearning: ["React Native", "GraphQL", "Cloud"],
     
-    askMeAbout: ["JavaScript", "React", "Node.js", "UX/UI Design"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "UX/UI"],
     
-    funFact: "Je suis aussi photographe amateur et graphiste 📸🎨",
+    funFact: "Photographe amateur & graphiste 📸🎨",
     
     motto: "Le code est de la poésie qui résout des problèmes."
 };
@@ -70,7 +70,9 @@ const johary = {
 - 🤝 **Ouvert à** : Collaborations sur projets open-source et opportunités freelance
 - 📫 **Contact** : [andrianmanantena@gmail.com](mailto:andrianmanantena@gmail.com)
 
-<br/>
+<br clear="right"/>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    POINTS FORTS                              ║ -->
@@ -78,49 +80,43 @@ const johary = {
 
 ## ✨ Mes atouts
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>🚀 Esprit d'innovation</b>
+      <h3>🚀</h3>
+      <b>Esprit d'innovation</b>
       <br/><br/>
       <sub>Toujours à l'affût des dernières technologies et des meilleures pratiques pour livrer un code de qualité.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>🎨 Sens du design</b>
+      <h3>🎨</h3>
+      <b>Sens du design</b>
       <br/><br/>
       <sub>Mon background en graphisme me permet de créer des interfaces esthétiques et fonctionnelles.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>🧠 Apprentissage rapide</b>
+      <h3>🧠</h3>
+      <b>Apprentissage rapide</b>
       <br/><br/>
       <sub>Capacité à m'adapter rapidement à de nouveaux frameworks et environnements de travail.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>🤝 Esprit d'équipe</b>
+      <h3>🤝</h3>
+      <b>Esprit d'équipe</b>
       <br/><br/>
       <sub>Collaboration efficace, communication claire et partage des connaissances.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>⚡ Résolution de problèmes</b>
+      <h3>⚡</h3>
+      <b>Résolution de problèmes</b>
       <br/><br/>
       <sub>Approche méthodique et créative pour transformer les défis en opportunités.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
-      <br/><br/>
-      <b>📚 Curiosité technique</b>
+      <h3>📚</h3>
+      <b>Curiosité technique</b>
       <br/><br/>
       <sub>Veille constante sur les évolutions du web et exploration de nouveaux concepts.</sub>
     </td>
@@ -128,6 +124,8 @@ const johary = {
 </table>
 
 <br/>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    COMPÉTENCES PROGRESSION                   ║ -->
@@ -150,6 +148,8 @@ const johary = {
 </div>
 
 <br/>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    STACK TECHNIQUE                           ║ -->
@@ -193,6 +193,8 @@ const johary = {
 
 <br/>
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    STATISTIQUES GITHUB                       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -220,58 +222,91 @@ const johary = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=ffffff" alt="Graph d'activité" />
 </a>
 
-<br/><br/>
-
-### 🏆 Trophées GitHub
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophées" />
-</a>
-
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -║ -->
-<!-- ║                    SNAKE ANIMATION                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🐍 Mes contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PROJETS PHARES                            ║ -->
+<!-- ║                    OBJECTIFS / FOCUS                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Mes projets phares
+## 🎯 Mes objectifs
 
 <div align="center">
 
-<a href="https://github.com/joharymanantena1-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=PROJET_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" />
-</a>
-<a href="https://github.com/joharymanantena1-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=PROJET_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" />
-</a>
-
-<br/>
-
-> 💡 *Remplacez `PROJET_1` et `PROJET_2` par les noms de vos repos préférés !*
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🎓 Court terme</h3>
+      <ul align="left">
+        <li>Maîtriser <b>React Native</b> pour le développement mobile</li>
+        <li>Approfondir <b>GraphQL</b> et les APIs modernes</li>
+        <li>Réussir mes études en sciences informatiques</li>
+        <li>Contribuer à des projets <b>open-source</b></li>
+      </ul>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🚀 Long terme</h3>
+      <ul align="left">
+        <li>Devenir un <b>développeur fullstack senior</b></li>
+        <li>Lancer mon propre <b>studio digital</b></li>
+        <li>Maîtriser le <b>cloud computing</b> (AWS / GCP)</li>
+        <li>Mentorer la prochaine génération de devs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    DOMAINES D'EXPERTISE                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 💼 Domaines d'expertise
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>🌐</h2>
+      <b>Web Development</b>
+      <br/><br/>
+      <sub>Sites vitrines, applications web, e-commerce, dashboards admin</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>📱</h2>
+      <b>Mobile Apps</b>
+      <br/><br/>
+      <sub>Applications cross-platform avec React Native et Flutter</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🎨</h2>
+      <b>UX/UI Design</b>
+      <br/><br/>
+      <sub>Maquettes Figma, prototypage, design system</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🔌</h2>
+      <b>API & Backend</b>
+      <br/><br/>
+      <sub>APIs REST/GraphQL, authentification, microservices</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    CITATION                                  ║ -->
@@ -286,6 +321,8 @@ const johary = {
 </div>
 
 <br/>
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    SOFT SKILLS                               ║ -->
@@ -310,6 +347,40 @@ const johary = {
 
 <br/>
 
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    PROCESSUS DE TRAVAIL                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## ⚙️ Mon processus de travail
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💡 Idée] --> B[📋 Analyse]
+    B --> C[🎨 Maquette]
+    C --> D[💻 Développement]
+    D --> E[🧪 Tests]
+    E --> F[🚀 Déploiement]
+    F --> G[🔄 Maintenance]
+    
+    style A fill:#4A90E2,stroke:#fff,color:#fff
+    style B fill:#8E44AD,stroke:#fff,color:#fff
+    style C fill:#F39C12,stroke:#fff,color:#fff
+    style D fill:#27AE60,stroke:#fff,color:#fff
+    style E fill:#E74C3C,stroke:#fff,color:#fff
+    style F fill:#16A085,stroke:#fff,color:#fff
+    style G fill:#2C3E50,stroke:#fff,color:#fff
+```
+
+</div>
+
+<br/>
+
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    CONTACT                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -327,9 +398,6 @@ const johary = {
 <a href="https://github.com/joharymanantena1-ux">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
 
 <br/><br/>
 
@@ -339,6 +407,8 @@ const johary = {
 
 <br/>
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    PIED DE PAGE                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -347,9 +417,9 @@ const johary = {
 
 ### 💖 Merci de votre visite !
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=N'hésitez+pas+à+⭐+mes+repos+!;Faisons+grand+ensemble+🚀;Made+with+❤️+from+Madagascar+🇲🇬" alt="Footer Typing" />
+[![Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=N'hésitez+pas+à+⭐+mes+repos+!;Faisons+grand+ensemble+🚀;Made+with+❤️+from+Madagascar+🇲🇬)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
