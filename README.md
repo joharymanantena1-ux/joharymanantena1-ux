@@ -1,175 +1,356 @@
-<!-- ================= EN-TÊTE ================= -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    BANNIÈRE PRINCIPALE                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <!-- Typing effect (une seule source suffit) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=600&lines=Johary+Manantena;D%C3%A9veloppeur+Fullstack;%C3%89tudiant+en+Informatique;Passionn%C3%A9+de+Web+%26+Design;Bas%C3%A9+%C3%A0+Madagascar" alt="Typing SVG" />
-  <br/>
   
-  <!-- Badges de présentation -->
-  <img src="https://img.shields.io/badge/Développeur_Fullstack-4A90E2?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Étudiant_en_Informatique-8E44AD?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Madagascar-0066CC?style=for-the-badge&logo=location&logoColor=white" />
-</div>
-
----
-
-<!-- ================= À PROPOS ================= -->
-## 👨‍💻 À propos de moi
-
-Je suis un développeur web fullstack passionné, actuellement étudiant en sciences informatiques à Madagascar. J'aime créer des applications web intuitives et explorer les nouvelles technologies.
-
-- 🔭 J'apprends actuellement : **React Native** et **GraphQL**
-- 💬 Posez-moi des questions sur : **JavaScript, React, Node.js, UX/UI**
-- 📫 Me contacter : [andrianmanantena@gmail.com](mailto:andrianmanantena@gmail.com)
-- ⚡ Fun fact : Je suis aussi photographe amateur et graphiste.
-
----
-
-<!-- ================= STACK TECHNIQUE ================= -->
-## 🛠️ Stack technique
-
-<details open>
-<summary><b>Langages de programmation</b></summary>
-<br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Frameworks & Frontend</b></summary>
-<br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Backend & Bases de données</b></summary>
-<br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</details>
-
-<details open>
-<summary><b>Outils & DevOps</b></summary>
-<br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</details>
-
----
-
-<!-- ================= STATISTIQUES GITHUB ================= -->
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<!-- Stats card - version simplifiée avec thème dark uniquement (évite les problèmes de compatibilité) -->
-<img src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
-
-<!-- Top Langages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Langages" width="49%" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=dark&hide_border=true" alt="GitHub Streak" width="90%" />
-
-<br/><br/>
-
-<!-- Graph d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%" />
-
-<br/><br/>
-
-<!-- Trophées GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=onedark&no-frame=true&row=2&column=3" alt="Trophées" width="90%" />
-
-<!-- Note temporaire en cas d'absence de données -->
-<details>
-<summary><b>💡 Note :</b> Si les statistiques ne s'affichent pas, c'est probablement dû à un compte récent ou à un manque d'activité publique. Elles apparaîtront automatiquement dans quelques jours.</summary>
-<br/>
-Les services externes comme GitHub Readme Stats peuvent prendre jusqu'à 24-48h pour générer les premières données. Patience !
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Johary%20Manantena&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Développeur%20Fullstack%20%7C%20Étudiant%20en%20Informatique&descAlignY=55&descAlign=50" />
 
 </div>
 
----
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    EFFET TYPING                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ================= CONTRIBUTIONS ================= -->
-## 📈 Contributions récentes
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+profil+👋;Développeur+Fullstack+passionné+💻;Étudiant+en+Sciences+Informatiques+🎓;Créateur+d'expériences+web+modernes+✨;Basé+à+Madagascar+🇲🇬)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    BADGES PROFIL                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=joharymanantena1-ux&label=Vues%20du%20profil&color=4A90E2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/joharymanantena1-ux?label=Followers&style=for-the-badge&color=8E44AD)
+![Stars](https://img.shields.io/github/stars/joharymanantena1-ux?label=Stars&style=for-the-badge&color=F39C12)
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    À PROPOS DE MOI                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> À propos de moi
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/programmer.gif"/>
+
+```javascript
+const johary = {
+    pseudo: "joharymanantena1-ux",
+    role: "Développeur Fullstack",
+    location: "Madagascar 🇲🇬",
+    education: "Sciences Informatiques",
+    
+    languages: ["Français", "Malgache", "English"],
+    
+    currentlyLearning: ["React Native", "GraphQL", "Cloud Computing"],
+    
+    askMeAbout: ["JavaScript", "React", "Node.js", "UX/UI Design"],
+    
+    funFact: "Je suis aussi photographe amateur et graphiste 📸🎨",
+    
+    motto: "Le code est de la poésie qui résout des problèmes."
+};
+```
+
+<br/>
+
+### 🎯 Ce qui me définit
+
+- 🔭 **Actuellement** : J'apprends **React Native** et **GraphQL** pour étendre mes compétences
+- 🌱 **En développement** : Mes compétences en **architecture logicielle** et **DevOps**
+- 💡 **Passionné par** : Création d'interfaces intuitives et expériences utilisateur fluides
+- 🎨 **Double casquette** : Développeur le jour, photographe & graphiste à mes heures perdues
+- 🤝 **Ouvert à** : Collaborations sur projets open-source et opportunités freelance
+- 📫 **Contact** : [andrianmanantena@gmail.com](mailto:andrianmanantena@gmail.com)
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    POINTS FORTS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## ✨ Mes atouts
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>🚀 Esprit d'innovation</b>
+      <br/><br/>
+      <sub>Toujours à l'affût des dernières technologies et des meilleures pratiques pour livrer un code de qualité.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>🎨 Sens du design</b>
+      <br/><br/>
+      <sub>Mon background en graphisme me permet de créer des interfaces esthétiques et fonctionnelles.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>🧠 Apprentissage rapide</b>
+      <br/><br/>
+      <sub>Capacité à m'adapter rapidement à de nouveaux frameworks et environnements de travail.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>🤝 Esprit d'équipe</b>
+      <br/><br/>
+      <sub>Collaboration efficace, communication claire et partage des connaissances.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>⚡ Résolution de problèmes</b>
+      <br/><br/>
+      <sub>Approche méthodique et créative pour transformer les défis en opportunités.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+      <br/><br/>
+      <b>📚 Curiosité technique</b>
+      <br/><br/>
+      <sub>Veille constante sur les évolutions du web et exploration de nouveaux concepts.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    COMPÉTENCES PROGRESSION                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 Niveau de compétences
 
 <div align="center">
 
-<!-- Animation Snake (grille de contributions) -->
+| Domaine | Niveau | Progression |
+|---------|--------|-------------|
+| 🎨 **Frontend (React, Vue, Next.js)** | Avancé | ![](https://geps.dev/progress/85?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| ⚙️ **Backend (Node.js, Laravel, Django)** | Intermédiaire+ | ![](https://geps.dev/progress/78?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| 🗄️ **Bases de données (SQL & NoSQL)** | Avancé | ![](https://geps.dev/progress/82?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| 📱 **Mobile (React Native, Flutter)** | Intermédiaire | ![](https://geps.dev/progress/65?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| 🎨 **UX/UI Design (Figma)** | Avancé | ![](https://geps.dev/progress/88?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| 🚀 **DevOps (Docker, CI/CD)** | Intermédiaire | ![](https://geps.dev/progress/60?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+| ☁️ **Cloud (AWS, Firebase)** | Intermédiaire | ![](https://geps.dev/progress/68?dangerColor=ff5252&warningColor=ffa726&successColor=4caf50) |
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    STACK TECHNIQUE                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🛠️ Stack technique complète
+
+<div align="center">
+
+### 💻 Langages de programmation
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,python,cpp,c,html,css" />
+</p>
+
+### 🎨 Frontend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,bootstrap,flutter" />
+</p>
+
+### ⚙️ Backend & Runtime
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring,nestjs" />
+</p>
+
+### 🗄️ Bases de données
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis,sqlite" />
+</p>
+
+### 🚀 DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux,bash,nginx" />
+</p>
+
+### 🧰 Outils & Design
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,photoshop,illustrator,xd,notion" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    STATISTIQUES GITHUB                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📈 Statistiques GitHub
+
+<div align="center">
+
+<a href="https://github.com/joharymanantena1-ux">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joharymanantena1-ux&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD&text_color=ffffff" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/joharymanantena1-ux">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharymanantena1-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=ffffff" alt="Top Langages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://streak-stats.demolab.com?user=joharymanantena1-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90E2&fire=8E44AD&currStreakLabel=4A90E2" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joharymanantena1-ux&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A90E2&line=8E44AD&point=ffffff" alt="Graph d'activité" />
+</a>
+
+<br/><br/>
+
+### 🏆 Trophées GitHub
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=joharymanantena1-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophées" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -║ -->
+<!-- ║                    SNAKE ANIMATION                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🐍 Mes contributions
+
+<div align="center">
+
 <picture>
-  <source
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ================= CONTACT ================= -->
-## 📞 Me contacter
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    PROJETS PHARES                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Mes projets phares
 
 <div align="center">
-  <a href="mailto:andrianmanantena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrianmanantena@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/johary-manantena">
-    <img src="https://img.shields.io/badge/LinkedIn-Johary_Manantena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/joharymanantena1-ux">
-    <img src="https://img.shields.io/badge/GitHub-@joharymanantena1-ux-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Lien Twitter (désactivé si vous ne l'utilisez pas, sinon décommentez) -->
-  <!-- <a href="https://twitter.com/johary_dev">
-    <img src="https://img.shields.io/badge/Twitter-@johary_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> -->
+
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=PROJET_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" />
+</a>
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=PROJET_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" />
+</a>
+
+<br/>
+
+> 💡 *Remplacez `PROJET_1` et `PROJET_2` par les noms de vos repos préférés !*
+
 </div>
 
 <br/>
 
-<!-- ================= VISITEURS ================= -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CITATION                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 💭 Citation du jour
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joharymanantena1-ux&color=4A90E2&style=flat-square" alt="Compteur de visiteurs" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation" />
+
 </div>
 
----
+<br/>
 
-<!-- ================= PIED DE PAGE ================= -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    SOFT SKILLS                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🌟 Soft Skills
+
 <div align="center">
-  ⭐️ <b>Merci de votre visite !</b> N'hésitez pas à explorer mes dépôts et à me contacter.
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Made_with_❤️_in-Madagascar-0066CC?style=for-the-badge" />
+
+| 🧩 **Compétence** | 📝 **Description** |
+|:---:|:---|
+| 🎯 **Rigueur** | Code propre, bien commenté, respect des bonnes pratiques |
+| 🔄 **Adaptabilité** | Capacité à changer rapidement de contexte ou de technologie |
+| 💬 **Communication** | Expliquer des concepts techniques de manière claire et accessible |
+| ⏰ **Gestion du temps** | Respect des deadlines, priorisation efficace des tâches |
+| 🎨 **Créativité** | Approche artistique appliquée au développement et au design |
+| 👂 **Écoute active** | Comprendre les besoins réels du client avant de coder |
+| 🧘 **Patience** | Persévérance face aux bugs complexes et aux défis techniques |
+| 🌱 **Curiosité** | Envie d'apprendre constante, veille technologique active |
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CONTACT                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📬 Connectons-nous !
+
+<div align="center">
+
+<a href="mailto:andrianmanantena@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/johary-manantena">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/joharymanantena1-ux">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+💼 **Disponible pour** : Stages • Projets freelance • Collaborations open-source • Opportunités fullstack
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    PIED DE PAGE                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 💖 Merci de votre visite !
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=N'hésitez+pas+à+⭐+mes+repos+!;Faisons+grand+ensemble+🚀;Made+with+❤️+from+Madagascar+🇲🇬" alt="Footer Typing" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
 </div>
