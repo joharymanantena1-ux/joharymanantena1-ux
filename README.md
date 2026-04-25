@@ -46,15 +46,10 @@ const johary = {
     role: "Développeur Fullstack",
     location: "Madagascar 🇲🇬",
     education: "Sciences Informatiques",
-    
-    languages: ["Français", "Malgache", "English"],
-    
+    languages: ["Malagasy", "Français", "English"],
     currentlyLearning: ["React Native", "GraphQL", "Cloud"],
-    
     askMeAbout: ["JavaScript", "React", "Node.js", "UX/UI"],
-    
     funFact: "Photographe amateur & graphiste 📸🎨",
-    
     motto: "Le code est de la poésie qui résout des problèmes."
 };
 ```
