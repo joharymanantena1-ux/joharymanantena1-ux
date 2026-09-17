@@ -84,9 +84,7 @@ const johary = {
 
 | Période | Formation | Établissement |
 |:---|:---|:---|
-| `2023 — aujourd'hui` | **Licence en Sciences Informatiques** | *Nom de votre université* |
-| `2022 — 2023` | **Formation développement web** *(auto-formation + certifications)* | En ligne |
-| `— 2022` | **Baccalauréat série C / D** | *Nom de votre lycée* |
+| `2023 — aujourd'hui` | **Licence et Master en Sciences Informatiques** | *IT University* |
 
 ### Expérience & projets marquants
 
