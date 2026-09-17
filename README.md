@@ -186,33 +186,6 @@ const johary = {
 <!--                      PROJETS ÉPINGLÉS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📌 Projets en vedette
-
-> 💡 *Remplacez `NOM-DU-REPO` par vos vrais dépôts. Ces cartes se mettent à jour automatiquement.*
-
-<div align="center">
-
-<a href="https://github.com/joharymanantena1-ux/NOM-DU-REPO-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=NOM-DU-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" alt="projet 1" />
-</a>
-<a href="https://github.com/joharymanantena1-ux/NOM-DU-REPO-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=NOM-DU-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" alt="projet 2" />
-</a>
-
-<a href="https://github.com/joharymanantena1-ux/NOM-DU-REPO-3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=NOM-DU-REPO-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" alt="projet 3" />
-</a>
-<a href="https://github.com/joharymanantena1-ux/NOM-DU-REPO-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joharymanantena1-ux&repo=NOM-DU-REPO-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=8E44AD" alt="projet 4" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/joharymanantena1-ux?tab=repositories">
-  <img src="https://img.shields.io/badge/Voir%20tous%20mes%20dépôts-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="tous les repos" />
-</a>
-
-</div>
 
 ---
 
@@ -332,7 +305,7 @@ flowchart LR
         <li>Devenir <b>développeur fullstack senior</b></li>
         <li>Lancer mon propre <b>studio digital</b></li>
         <li>Certification <b>cloud</b> (AWS / GCP)</li>
-        <li>Mentorer la prochaine génération de devs malgaches</li>
+        <li>Mentorer la prochaine génération de devs malagasy</li>
       </ul>
     </td>
   </tr>
